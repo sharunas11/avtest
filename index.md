@@ -4,13 +4,7 @@ You can use the [editor on GitHub](https://github.com/sharunas11/avtest/edit/gh-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Click me](http://www.google.com){: .btn}
-
-[button url="http://www.google.com"]
-
-{% include button.html url="http://www.google.com" %}
-
-<button name="button" onclick="http://www.google.com">Click me</button>
+[Click me](http://www.google.com)
 
 ![Image](apple27.jpg)
 
